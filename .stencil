@@ -1,0 +1,14 @@
+{
+  "normalStoreUrl": "https://ssbsetups.tk",
+  "port": "3000",
+  "clientId": "f0txj5hf227tqxsqbj8mmt34qktdh7d",
+  "accessToken": "8vjv3ewv9veoh2sirdzxot8gstyvs8m",
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {},
+    "product": {
+        "product-size-chart": "/csv-import-rules/"
+    }
+  }
+}
